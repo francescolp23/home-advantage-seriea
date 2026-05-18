@@ -1,4 +1,4 @@
-Title: Behind Closed Doors: Home Advantage and Referee Bias in Serie A
+**Behind Closed Doors: Home Advantage and Referee Bias in Serie A**
 
 This repository contains an econometric study investigating the impact of crowd presence on professional football outcomes. Leveraging match-level data from Serie A (2018-2023), the project examines the "natural experiment" provided by the Covid-19 pandemic to isolate the effect of fans on match performance and officiating.
 
